@@ -25,7 +25,7 @@ namespace ComputerInfo
                 $"motherCard name: {motherCard}\n" +
                 $"osInstallation name: {osInstallation}\n" +
                 $"systemDrive name: {systemDrive}\n" +
-                $"----------------------------------------");
+                "----------------------------------------");
 
             Console.ReadLine();
         }
